@@ -38,8 +38,8 @@ On Team and Enterprise plans, uploading skills may need to be enabled by your or
 
 ### Claude Code (plugin marketplace)
 ```
-/plugin marketplace add YOUR_GITHUB_USERNAME/suno-songwriter
-/plugin install suno-songwriter@suno-songwriter
+/plugin marketplace add ks00908/Suno-Songwriter-Skill-AI
+/plugin install Suno-Songwriter-Skill-AI@Suno-Songwriter-Skill-AI
 ```
 
 ### Manual
