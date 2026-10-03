@@ -1,0 +1,12 @@
+{
+  "name": "suno-songwriter",
+  "version": "1.0.0",
+  "description": "Generate ready-to-paste Suno AI songs: a Style prompt, lyrics marked up with Suno meta tags, Exclude styles, title and suggested v6 settings. Any language, plus franchise fan songs with lore lookup on the franchise's primary wiki.",
+  "author": {
+    "name": "Krzysztof Szypuła"
+  },
+  "homepage": "https://github.com/ks00908/Suno-Songwriter-Skill-AI",
+  "repository": "https://github.com/ks00908/Suno-Songwriter-Skill-AI",
+  "license": "MIT",
+  "keywords": ["suno", "music", "lyrics", "songwriting", "ai-music", "meta-tags"]
+}
