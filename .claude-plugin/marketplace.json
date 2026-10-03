@@ -1,0 +1,14 @@
+{
+  "name": "suno-songwriter",
+  "description": "Claude skill for writing ready-to-paste Suno AI songs: style prompt, tagged lyrics, settings and lore-checked fan songs.",
+  "owner": {
+    "name": "KRzysztof Szypuła"
+  },
+  "plugins": [
+    {
+      "name": "suno-songwriter",
+      "source": "./plugins/suno-songwriter",
+      "description": "Generate Suno style prompts and lyrics with Suno meta tags, in any language, including franchise fan songs with wiki lore lookup."
+    }
+  ]
+}
